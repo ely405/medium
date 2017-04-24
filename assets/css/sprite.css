@@ -1,0 +1,10 @@
+.sprite { background: url('../image/sprite.png') no-repeat top left;  }
+
+.image-belen { background-position: 0 0; width: 60px; height: 60px; border-radius: 50% } 
+
+.favicon-laboratoria { background-position: -75px 0; width: 120px; height: 120px; transform: scale(0.4); top: 0; right: 0; } 
+
+.favicon-medium {
+    background-position: -210px 0; width: 128px; height: 128px; transform: scale(0.4); } 
+
+.image-group{ background-position: -353px 0; width: 95px; height: 36px; top: 3rem; } 

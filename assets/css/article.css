@@ -1,0 +1,32 @@
+.main-container{
+    top: 8rem;
+    max-width: 80%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.article-header{
+    padding: 0rem;
+}
+
+.belen-description{
+    top: 0;
+    left: 5rem;
+}
+
+.belen-description h2{
+    color: #6AC9BD;
+}
+
+.belen-description p{
+    color: #A7E6DD;
+}
+.title{
+    font-size: 3.5rem;
+    margin: 1rem 0;
+}
+
+.article-paragraph{
+    font-size: 2rem;
+}

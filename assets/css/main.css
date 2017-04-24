@@ -1,0 +1,129 @@
+@import url("sprite.css");
+@import url("article.css");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-header{
+    width: 100%;
+    background-color: deeppink;
+    top: 0;
+    z-index: 1000;
+    bottom: 0;
+    height: 7rem;
+}
+
+.in-block{
+    display: inline-block;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.relative{
+    position: relative;
+}
+
+.fixed{
+    position: fixed;
+}
+
+.right{
+    right: 0;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.facebook{
+    bottom: 3rem;
+    font-size: 2rem;
+    right: -18.5rem;
+}
+
+.twitter{
+    bottom: 3rem;
+    font-size: 2rem;
+    right: -16rem;
+}
+
+.btn-follow{
+    padding: 0.3rem 1rem;
+    top: 3rem;
+    font-size: 1.5rem;
+    background: white;
+    color: darkmagenta;
+    font-weight: bold;
+    border: 2px solid darkmagenta;
+    border-radius: 2rem;
+    left: 15rem;
+    cursor: pointer;
+    outline: none;
+    background-color: white;
+}
+
+.search-input{
+    top: 3rem;
+    right: 11rem;
+    width: 7rem;
+    border-radius: 1rem;
+    outline: none;
+    padding: 0.5rem;
+}
+
+.icon-search{
+    top: 3.2rem;
+    right: 11rem;
+}
+
+.belen-main-header{
+    top: 2rem;
+    right: 6rem;
+}
+
+footer{
+    width: 100%;
+    bottom: 0;
+    height: 5rem;
+    background-color: #FC74B7;
+}
+
+footer .icon-like{
+    bottom: 2rem;
+    left: 9rem;
+}
+
+footer .icon-speech-bubble{
+    bottom: 2rem;
+    left: 12rem;
+}
+
+footer .twitter{
+    bottom: 1rem;
+    right: 29rem;
+}
+
+footer .facebook{
+    bottom: 1rem;
+    right: 26rem;
+}
+
+.next-story{
+    bottom: 1rem;
+    right: 0;
+}
+
+.next-story h3{
+    color: white;
+    font-weight: bold;
+}
+
+.next-story h2{
+    color: #B70783;
+}
